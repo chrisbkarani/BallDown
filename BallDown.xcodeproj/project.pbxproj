@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C08BD481B99829C00FE66CE /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 5C08BD471B99829C00FE66CE /* README.md */; };
 		5C2300691B5C83280029C608 /* BoardAbstract.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C2300621B5C83280029C608 /* BoardAbstract.swift */; };
 		5C23006A1B5C83280029C608 /* BoardBroken.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C2300631B5C83280029C608 /* BoardBroken.swift */; };
 		5C23006B1B5C83280029C608 /* BoardNormal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C2300641B5C83280029C608 /* BoardNormal.swift */; };
@@ -62,6 +63,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5C08BD471B99829C00FE66CE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5C2300621B5C83280029C608 /* BoardAbstract.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoardAbstract.swift; sourceTree = "<group>"; };
 		5C2300631B5C83280029C608 /* BoardBroken.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoardBroken.swift; sourceTree = "<group>"; };
 		5C2300641B5C83280029C608 /* BoardNormal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoardNormal.swift; sourceTree = "<group>"; };
@@ -265,6 +267,7 @@
 		5CD5500F1B12A7D8005BC8DC = {
 			isa = PBXGroup;
 			children = (
+				5C08BD471B99829C00FE66CE /* README.md */,
 				5CC4F2BE1B666D030004A312 /* Resource */,
 				5CEB44121B592E29007287F0 /* Framework */,
 				5C5248711B592DDE0036A21E /* SDK */,
@@ -434,6 +437,7 @@
 				5C6998081B5E7F2700BD1C8A /* CollideType.swift in Sources */,
 				5C23006D1B5C83280029C608 /* BoardScroll.swift in Sources */,
 				5C3B2B701B5C84C00070ACE5 /* UserDefaults.swift in Sources */,
+				5C08BD481B99829C00FE66CE /* README.md in Sources */,
 				5C23006A1B5C83280029C608 /* BoardBroken.swift in Sources */,
 				5C7C18AD1B67CF3000958518 /* AESCrypt.m in Sources */,
 				5C69980B1B5F20A300BD1C8A /* SKNodeExtension.swift in Sources */,
