@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  BallDown
+
+  Created by yookoor on 7/26/15.
+  Copyright (c) 2015 ones. All rights reserved.
+*/
+
+shareContentByTwitter="Awesome! I scored %d points in #NoOneGets100";
+shareContentByFacebook="Awesome! I scored %d points in #NoOneGets100";
+shareContentByWeibo="Awesome! I scored %d points in #No One Gets 100#";
+shareContentByWechat="Awesome! I scored %d points. It is said that no one scores 100 points";
+storeAlertTitle="Dear Friend";
+storeAlertMessage="Thank you for playing my game, Would you like to write a review for making it better? ^_^";
+storeAlertYes="Sure";
+storeAlertNo="No";
+storeRejectMessage="Thank you all the same, I hope you can have fun ^_^";

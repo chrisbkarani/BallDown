@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  BallDown
+
+  Created by yookoor on 7/26/15.
+  Copyright (c) 2015 ones. All rights reserved.
+*/
+
+shareContentByTwitter="Awesome! I scored %d points in #NoOneGets100";
+shareContentByFacebook="太棒了！我居然在＃#NoOneGets100 中到达第%d层";
+shareContentByWeibo="太棒了！我居然在＃没人能到100层#中到达第%d层";
+shareContentByWechat="太棒了！我居然到达了第%d层, 据说没人能到100层";
+storeAlertTitle="亲爱的朋友";
+storeAlertMessage="非常感谢您能来玩我的游戏,您愿意给它写一个评价吗? ^_^";
+storeAlertYes="好的";
+storeAlertNo="不愿意";
+storeRejectMessage="同样非常感谢,希望您能玩的愉快 ^_^";
