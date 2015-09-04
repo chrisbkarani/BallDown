@@ -1,3 +1,7 @@
+[![Platform](https://img.shields.io/badge/platform-iOS-000000.svg)](http://cocoadocs.org/docsets)
+[![Language](https://img.shields.io/badge/language-Swift-orange.svg)](https://developer.apple.com/swift/)
+[![License](https://img.shields.io/badge/license-MIT%20License-lightgrey.svg)](https://github.com/pop2ones/BallDown/blob/master/README.md)
+
 # BallDown
 A full game on the Appstore - [No One Gets 100](https://itunes.apple.com/app/id1020929059?mt=8)
 
