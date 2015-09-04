@@ -1,5 +1,5 @@
 # BallDown
-A full game (IOS8) on the Appstore - [No One Gets 100](https://itunes.apple.com/app/id1020929059?mt=8)
+A full game on the Appstore - [No One Gets 100](https://itunes.apple.com/app/id1020929059?mt=8)
 
 You can control the ball to move left or right to avoid obstacles for more scores by clicking the screen
 
@@ -17,7 +17,7 @@ You can control the ball to move left or right to avoid obstacles for more score
 
 ## Usage
 
-You can run the game immediately. But if you want to do something more, you can edit the 'BallDown/Support/World' file
+You can run the game immediately. But if you want to do something more, you can edit the 'BallDown/Support/World.swift' file
 ```swift
 class World {
 
@@ -32,6 +32,8 @@ static let userDefaultsPassword = "Your own password"
 
 // Your own unitId for the google Admob  
 static let gadUnitId = "Your own Admob unitId"
+
+}
 
 ```
 
