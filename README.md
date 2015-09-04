@@ -21,17 +21,17 @@ You can run the game immediately. But if you want to do something more, you can 
 ```swift
 class World {
 
-// Your own appId for the share link
-static let appId = 1020929059
+    // Your own appId for the share link
+    static let appId = 1020929059
 
-// Your own wechatAppId for the wechat share function
-static let wechatAppId = "Your own wechat appId"
+    // Your own wechatAppId for the wechat share function
+    static let wechatAppId = "Your own wechat appId"
 
-// Your own password for the NSUserDefault AES encrypt
-static let userDefaultsPassword = "Your own password"
+    // Your own password for the NSUserDefault AES encrypt
+    static let userDefaultsPassword = "Your own password"
 
-// Your own unitId for the google Admob  
-static let gadUnitId = "Your own Admob unitId"
+    // Your own unitId for the google Admob  
+    static let gadUnitId = "Your own Admob unitId"
 
 }
 
